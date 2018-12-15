@@ -24,7 +24,9 @@
 
     git config -l
 显示配置信息列表
+
 ![](https://i.imgur.com/l2C0UGc.png)
+
 - 本地分支,到一个本地文件夹目录创建一个项目
 
 > 初始化项目
@@ -41,7 +43,9 @@
 - 检查modify文件
 
     git status
+    
 ![](https://i.imgur.com/PyRrE3K.png)
+
 //这里略微有些不符，显示更改这些操作
 - 使这些文件生效
 
@@ -59,7 +63,10 @@
 
 ![](https://i.imgur.com/OauYl1q.png)
 
-这时在远程仓库中![](https://i.imgur.com/OXM3ZxU.png)
+这时在远程仓库中
+
+![](https://i.imgur.com/OXM3ZxU.png)
+
 会出现newporject，但无法打开，并不是文件路径
 
 这时需要删除远程仓库文件
@@ -108,6 +115,8 @@ Github基本使用文档为.md文件，使用markdown编辑器
 
 参考文档：
 https://www.cnblogs.com/wuer888/p/7656219.html
+
 https://blog.csdn.net/wudinaniya/article/details/77508229
+
 https://blog.csdn.net/u013162035/article/details/78476880
 
