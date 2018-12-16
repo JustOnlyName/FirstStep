@@ -13,6 +13,10 @@ hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
 hint: before pushing again.  
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.  
 
+或出现
+
+![](https://i.imgur.com/Ad6LGLX.png)
+
 > 虽然听说有强制push的方法，也查到具体操作步骤，但一般不使用这种方法，找了找相关解释出现这种状况的原因
 
 ![](https://i.imgur.com/MqTjAHZ.png)
@@ -26,6 +30,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ![](https://i.imgur.com/YH5Qpjm.png)
 
+**在网页上直接更改更容易出现这种错误（下面通过网页更改展示）**
 
 ### **解决方法**
 
@@ -38,7 +43,16 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 > 所有想upload到Github中的文档，都到了本地仓库中时
 
 - `$ git pull origin master`
-- `$ git push -u origin master`
+- `$ git push -u origin master`  
+
+![](https://i.imgur.com/KXGcAS9.png)  
+tip说需要commit，先看看有什么变化  
+
+![](https://i.imgur.com/YFx2KcB.png)  
+发现其他方式更改过的Secondblog.md在本地暂存区进行了更新
+
+之后按照tip操作  
+![](https://i.imgur.com/hT7FsVk.png)
 
 #### 3. 创建新分支，放到新分支中
 
