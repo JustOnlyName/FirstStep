@@ -72,6 +72,10 @@ Hexo类似于一个个人网站，搭建出来的效果如同csdn、cnblog那样
 
 - `hexo deploy`简写为`hexo d`
 
+> 此处生成网站、网站部署操作可以一步进行  
+> 在进行完博客编写更新之后，进行部署，`hexo g -d`
+
+
 #### 9. 网址输入个人博客ip地址检查
 > 这里对我的脑子有点无语了，JustOnlyName.github.io仓库中还只放了一个README.md文件，以为进行完这些操作之后就能想https://localhost:4000/一样的界面，这里没有放除README.md外的文件，就只会出现README.md里的内容
 
