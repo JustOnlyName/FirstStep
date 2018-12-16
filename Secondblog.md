@@ -109,18 +109,8 @@ Hexo类似于一个个人网站，搭建出来的效果如同csdn、cnblog那样
 之后会出现`Your site is published at https://.......`
 
 
-
-
 ----------
 
-
-
-
-
-
-
-参考文档：
-https://blog.csdn.net/u013162035/article/details/80718576
-
-https://juejin.im/post/598eeaff5188257d592e55bb
-
+参考文档：  
+https://blog.csdn.net/u013162035/article/details/80718576  
+https://juejin.im/post/598eeaff5188257d592e55bb  
