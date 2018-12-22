@@ -94,8 +94,11 @@ tip说需要commit，先看看有什么变化
 
 
 ---------- 
+#### 推荐Git学习文档
+http://iissnan.com/progit/  
+http://www.runoob.com/git/git-tutorial.html
 
-
+----------
 
 参考文档：  
 https://www.cnblogs.com/code-changeworld/p/4779145.html   
