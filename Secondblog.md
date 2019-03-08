@@ -80,7 +80,7 @@ Hexo类似于一个个人网站，搭建出来的效果如同csdn、cnblog那样
 > 这里对我的脑子有点无语了，JustOnlyName.github.io仓库中还只放了一个README.md文件，以为进行完这些操作之后就能想https://localhost:4000/一样的界面，这里没有放除README.md外的文件，就只会出现README.md里的内容
 
 **上述错误**
-进行完操作之后需要等待几分钟，这里需要时间上传，之后就能出现想要的界面，而JustOnlyName.github.io仓库中叶出现上传的文件
+进行完操作之后需要等待几分钟，这里需要时间上传，之后就能出现想要的界面，而JustOnlyName.github.io仓库中也出现上传的文件
 
 ![](https://i.imgur.com/NmIF0ge.png)
 
