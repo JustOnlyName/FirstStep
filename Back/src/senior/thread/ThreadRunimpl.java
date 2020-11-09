@@ -1,0 +1,19 @@
+package senior.thread;
+
+public class ThreadRunimpl implements Runnable{
+
+	@Override
+	public void run() {
+		for (int i = 0; i < 100; i++) {
+			if(i%2==0) {
+				System.out.println(i);
+			}
+		}
+	}
+	
+	public static void main(String[] args) {
+		ThreadRunimpl threadRunimpl = new ThreadRunimpl();
+		Thread t1 = new Thread(threadRunimpl);
+		t1.start();
+	}
+}
